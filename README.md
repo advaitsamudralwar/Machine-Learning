@@ -12,4 +12,6 @@ Implementation using Numpy and CVXPY.
 
 #Ref:https://www.cvxpy.org
 
+Stochastic and Batch Gradient Descent: Numpy Implementation
+
 
