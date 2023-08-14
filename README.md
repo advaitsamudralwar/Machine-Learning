@@ -1,8 +1,8 @@
 # Machine-Learning
 
-Perceptron an KNN: Numpy implementation 
+#Perceptron an KNN: Numpy implementation 
 
-Optimal Margin Classfifier and KNN:
+#Optimal Margin Classfifier and KNN:
 
 Implementation using Numpy and CVXPY. 
 
@@ -12,6 +12,6 @@ Implementation using Numpy and CVXPY.
 
 #Ref:https://www.cvxpy.org
 
-Stochastic and Batch Gradient Descent: Numpy Implementation
+#Stochastic and Batch Gradient Descent: Numpy Implementation
 
 
